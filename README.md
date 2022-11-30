@@ -19,7 +19,7 @@ https://apps.sfc.hk/productlistWeb/searchProduct/UTMF.do
 ##### To-Do:
 
 - Search WIND & Bloomberg's API for HK funds products.
-- 47 pkf files is  wrong, needs redownload
+
 
 
 
